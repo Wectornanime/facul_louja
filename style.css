@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 90vw;
+    height: 90vh;
+    margin: auto;
+}
+
+table {
+    margin: 15px auto;
+}
+
+thead th {
+    border: 0;
+    border-bottom: 1px solid black;
+    border-style: double;
+}
+
+td {
+    padding: 0 10px;
+    border-top: 1px solid black;
+}
